@@ -8,6 +8,7 @@ export default function Home() {
         officia!
       </p>
       <button>click</button>
+      <button className="bg-red-500 tetx-white">click 2</button>
     </main>
   );
 }
