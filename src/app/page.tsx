@@ -9,6 +9,9 @@ export default function Home() {
       </p>
       <button>click</button>
       <button className="bg-green-500 tetx-white">click 2</button>
+      <button className="bg-green-500 tetx-white">click 2</button>
+      <button className="bg-green-500 tetx-white">click 2</button>
+      <button className="bg-green-500 tetx-white">click 2</button>
     </main>
   );
 }
