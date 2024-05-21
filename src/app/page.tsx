@@ -8,6 +8,7 @@ export default function Home() {
         necessitatibus odio quibusdam tempora ut corrupti cumque, quaerat unde
         officia!
       </p>
+      <button>click</button>
     </main>
   );
 }
